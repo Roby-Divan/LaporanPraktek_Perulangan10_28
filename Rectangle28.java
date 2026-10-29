@@ -11,9 +11,8 @@ public class Rectangle28 {
 
         for (i = 1; i <= baris; i++) {
             for (j = 1; j <= kolom; j++) {
-                System.out.print("*");
+                System.out.print("#");
             }
-            System.out.println();
         }
         input.close();
     }
